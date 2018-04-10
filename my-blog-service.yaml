@@ -3,6 +3,11 @@ info:
   description: "This is a simple blog service to demonstrate Swagger."
   version: "1.0.0"
   title: "My Blog Service"
+  termsOfService: "https://my-blog-service.com/terms"
+  contact: 
+    name: "API Support"
+    url: "https://my-blog-service.com/support"
+    email: "support@my-blog-service.com"
 host: "localhost:8080"
 basePath: "/my-blog-service/v1"
 tags:
